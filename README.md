@@ -70,8 +70,6 @@ Invited reviewer for **IEEE Transactions on Knowledge and Data Engineering**, as
 
 <br/>
 
-<!-- Contribution snake, generated daily by .github/workflows/snake.yml
-     and published to the orphan `output` branch. Palette matches the site. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azeez-1904/azeez-1904/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azeez-1904/azeez-1904/output/snake-light.svg" />

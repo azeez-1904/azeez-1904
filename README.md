@@ -14,20 +14,20 @@
 </p>
 
 <p align="center">
-  <sub>Most of my work sits where AI meets constraint — air-gapped labs, compliance boundaries,<br/>municipal archives, and a payload that had to survive a suborbital flight.</sub>
+  <sub>Most of my work sits where AI meets constraint: air-gapped labs, compliance boundaries,<br/>municipal archives, and a payload that had to survive a suborbital flight.</sub>
 </p>
 
 <br/>
 
 ## Currently
 
-**[Contextral](https://www.contextral.com)** — Co-Founder. On-premise AI infrastructure for regulated institutions. Our flagship product, Virtual Archives, is deployed at the Newark City Clerk's Office, delivering HIPAA and FERPA-compliant document intelligence on Ollama, Qdrant and LangChain. No cloud, by design.
+**Co-Founder, [Contextral](https://www.contextral.com).** On-premise AI infrastructure for regulated institutions. Our flagship product, Virtual Archives, is deployed at the Newark City Clerk's Office, delivering HIPAA and FERPA-compliant document intelligence on Ollama, Qdrant and LangChain. No cloud, by design.
 
-**NASA RockSat-X · A.R.R.O.W.** — Sole computer science and firmware engineer. Wrote all flight code for the SCOUT and Overwatch subsystems, flew the payload from Wallops Island in June 2026, and processed 49,171 IMU samples in post-flight analysis to diagnose a 75.3% RF reception rate.
+**Sole CS and firmware engineer, NASA RockSat-X A.R.R.O.W.** Wrote all flight code for the SCOUT and Overwatch subsystems, flew the payload from Wallops Island in June 2026, and processed 49,171 IMU samples in post-flight analysis to diagnose a 75.3% RF reception rate.
 
-**NJIT iXR Research Lab** — Lead Experiment Manager under Dr. Margarita Vinnikov, working on role-based collaboration in extended reality.
+**Lead Experiment Manager, NJIT iXR Research Lab.** Working under Dr. Margarita Vinnikov on role-based collaboration in extended reality.
 
-**CodePath** — Mentor and Program Experience Advisor for student developers.
+**Mentor and Program Experience Advisor, CodePath.** Supporting student developers.
 
 <br/>
 
